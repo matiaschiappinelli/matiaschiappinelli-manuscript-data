@@ -1,4 +1,4 @@
-Vector difference XYZ coordinates per protein residue (578 residues) obtained from truncated PDB file.
+Vector difference XYZ coordinates per protein residue (578 residues) obtained from truncated PDB file applying Equation 13 mentioned in the article.
 -5.3942E+000
 -1.2503E+001
 -7.0086E+000
