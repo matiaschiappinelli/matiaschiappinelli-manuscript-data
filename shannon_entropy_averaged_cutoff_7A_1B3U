@@ -1,4 +1,4 @@
-H_dyn values obtained by calculating the Shannon entropy of the 19 different values of ζ^(S^i S) per protein residue as it is detailed in eq. 10 of the article.
+H_dyn values obtained per protein residue by calculating the Shannon entropy of the 19 different values of ζ^(S^i S) as it is detailed in eq. 10 of the article.
 0.00020740505145303936
 0.0002430351825137104
 0.00020870079160926837
