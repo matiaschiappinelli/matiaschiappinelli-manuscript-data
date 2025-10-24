@@ -1,4 +1,4 @@
-Normalized vector difference XYZ coordinates per protein residue (578 residues) obtained from truncated PDB file.
+Normalized vector difference XYZ coordinates per protein residue (578 residues) obtained from truncated PDB file applying Equation 2 mentioned in the article.
 -4.0306E-008
 -9.3424E-008
 -5.2369E-008
